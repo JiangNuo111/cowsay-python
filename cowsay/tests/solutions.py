@@ -586,4 +586,29 @@ CHARS_SOLUTIONS = {
                                                            |      /       |       \       |
 """,
 
+    'snowcat': r"""
+  _________________________________________________
+ /                                                 \
+| Lorem ipsum dolor sit amet, consetetur sadipscing |
+|  elitr, sed diamnonumy eirmod tempor invidunt ut  |
+| labore et dolore magna aliquyam erat,sed diam vol |
+| uptua. At vero eos et accusam et justo duo dolore |
+| s et ea rebum.                                    |
+ \                                                 /
+  =================================================
+                                                   \
+                                                    \
+                                                     \
+                                                      \
+                                                 /\   *   /(
+                                                (  \__8__/  )
+                                               (             )        ~~
+                                              /    ^    ^.    \      (  )
+                                              (      ~~       )     (  )
+                                             (`````````````````)    . .
+                                            /```````````````````\  (  )
+                                           ( ...      x      ... ).  .
+                                           (·.·)           (·.·)(  )
+                                            ```````````````````````
+""",
 }
